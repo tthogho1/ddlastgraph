@@ -1,0 +1,7 @@
+# Ignore build and editor files
+/target
+**/target
+.DS_Store
+.env
+sample.sql
+user.txt
