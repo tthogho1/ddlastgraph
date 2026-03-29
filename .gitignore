@@ -5,3 +5,9 @@
 .env
 sample.sql
 user.txt
+
+# Prevent accidental committing of JSON files (adjust if you need to track some JSON)
+*.json
+
+# If you want to allow specific tracked JSON files, add an exception, e.g.:
+# !important-config.json
