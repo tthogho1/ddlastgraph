@@ -322,6 +322,8 @@ dependencies = [
  "anyhow",
  "dotenvy",
  "google-cloud-bigquery",
+ "regex",
+ "serde_json",
  "tokio",
 ]
 

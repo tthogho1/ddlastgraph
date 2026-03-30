@@ -8,3 +8,5 @@ tokio = { version = "1", features = ["full"] }
 anyhow = "1"
 google-cloud-bigquery = { version = "0.15.0", features = ["auth"] }
 dotenvy = "0.15"
+regex = "1"
+serde_json = "1"
